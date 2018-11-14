@@ -1,0 +1,33 @@
+body {
+    background-color: lightblue;
+}
+
+
+ .fir h1 { 
+     color: red;
+     font-size: 32px;
+     font-family: Georgia;
+     font-weight: bold;
+    }
+
+
+p.large-text{
+    color: blue;
+    font-size: 16px;
+    font-family: georgia;
+    text-align: center; 
+
+}
+
+p.this {
+    text-align: left; 
+    color: #29e00d; 
+}
+
+
+.sec h1 {
+    color: blue;
+    font-size: 18px; 
+     font-family: Georgia;
+
+}
